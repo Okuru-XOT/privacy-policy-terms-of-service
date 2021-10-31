@@ -6,7 +6,7 @@ Terms of Service
 The use of any website of the Okuru project and the Okuru Token project is at your own risk.
 
 1. liability:
-If You Using Okuru (XOT), you use it on you own risk and thereby confirm no liability whatsoever towards the ElserNord project, Mert Can Elnser and the Dev team of Okuru (XOT)
+If You Using Okuru (XOT), you use it on you own risk and thereby confirm no liability whatsoever towards the ElserNord project and the Dev team of Okuru (XOT)
 
 2. Do not use if you are a citizen of one of the following countries/areas:
 Afghanistan, The Bahamas, Barbados, Botswana, Cambodia, China (People's Republic of China), Democratic People's Republic of Korea (DPRK), 
