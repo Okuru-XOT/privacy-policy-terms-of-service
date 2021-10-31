@@ -1,8 +1,6 @@
 # terms-of-service
-Terms of Service for Okuru
+Terms of Service
 
-
-Terms of Service.
 
 0. Risk:
 The use of any website of the Okuru project and the Okuru Token project is at your own risk.
